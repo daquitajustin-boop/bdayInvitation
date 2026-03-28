@@ -7,10 +7,10 @@ import styles from '../styles/Home.module.css';
 // ─────────────────────────────────────────────────────────────────────────────
 const EVENT_BABY_NAME = 'Saiah Alisbo';
 const EVENT_DAY       = 'Sunday';
-const EVENT_DATE      = 'April 21';
-const EVENT_TIME      = '11:00 AM';
+const EVENT_DATE      = 'April 19';
+const EVENT_TIME      = '3:00 PM';
 const EVENT_LOCATION  = 'Bagong Parañaque Phase III, Open Court';
-const DRESS_CODE      = 'Nude Browns & Pastels';
+const DRESS_CODE      = 'Nude Browns & Pastel Pink';
 
 // ─────────────────────────────────────────────────────────────────────────────
 // EMAILJS — paste your 3 keys here (no .env needed!)
