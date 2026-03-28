@@ -171,7 +171,7 @@ export default function Home() {
               <div className={styles.dateLine} />
               <div className={styles.dateCenter}>
                 <span className={styles.dateMonth}>APRIL</span>
-                <span className={styles.dateDay}>21</span>
+                <span className={styles.dateDay}>19</span>
                 <span className={styles.dateTime}>{EVENT_TIME}</span>
               </div>
               <div className={styles.dateLine} />
